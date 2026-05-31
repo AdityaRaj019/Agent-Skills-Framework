@@ -4,9 +4,7 @@ Reusable agent instructions for software projects.
 
 This repository is the source of truth for the `.agents` framework. Instead of copying `.agents` into every project, install it as a link from each project to this central folder.
 
-## Recommended Use: GitHub Submodule
 
-Best option: push this `AI-Framework` folder to GitHub once, then add it to each project as a Git submodule.
 
 In the target project:
 
