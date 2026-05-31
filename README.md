@@ -11,7 +11,7 @@ Best option: push this `AI-Framework` folder to GitHub once, then add it to each
 In the target project:
 
 ```powershell
-git submodule add https://github.com/YOUR_USERNAME/Agent-Skills-Framework.git .agent-framework
+git submodule add https://github.com/AdityaRaj019/Agent-Skills-Framework.git .agent-framework
 powershell -ExecutionPolicy Bypass -File .\.agent-framework\scripts\install-agents.ps1 -ProjectPath .
 ```
 
